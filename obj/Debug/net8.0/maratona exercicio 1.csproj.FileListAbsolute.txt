@@ -1,0 +1,15 @@
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\bin\Debug\net8.0\maratona exercicio 1.exe
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\bin\Debug\net8.0\maratona exercicio 1.deps.json
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\bin\Debug\net8.0\maratona exercicio 1.runtimeconfig.json
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\bin\Debug\net8.0\maratona exercicio 1.dll
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\bin\Debug\net8.0\maratona exercicio 1.pdb
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.AssemblyInfoInputs.cache
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.AssemblyInfo.cs
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.sourcelink.json
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.dll
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\refint\maratona exercicio 1.dll
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.pdb
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\maratona exercicio 1.genruntimeconfig.cache
+C:\Users\kaique.ssousa3\source\repos\maratona exercicio 1\obj\Debug\net8.0\ref\maratona exercicio 1.dll
